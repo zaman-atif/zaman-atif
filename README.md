@@ -26,3 +26,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zaman-atif&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="Atif" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaman-atif&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="Atif" /></p>
