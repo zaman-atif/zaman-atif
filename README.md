@@ -1,12 +1,8 @@
 <!-- welcome message -->
 <h2>Assalamu Alaikum, I'm Atif. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
 
-
-- 🔭 Admin in Command , Programming Hero
 - 🌱 I’m currently learning Web Development
 - 💬 Ask me about anything
-- 📫 Email atifuzzaman01@gmail.com
-- ⚡ Fun fact: I love to watch anime and read manga.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaman-atif&label=Profile%20views&color=E4405F&style=flat" alt="zaman-atif" /> </p>
 
 ## Connect with Me
