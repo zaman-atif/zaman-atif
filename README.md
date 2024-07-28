@@ -6,7 +6,7 @@
 - Love anime and manga
 <br>
 <br>
-[![](https://visitcount.itsvg.in/api?id=zaman-atif&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=zaman-atif&icon=8&color=0)] (https://visitcount.itsvg.in)
 
 
 
