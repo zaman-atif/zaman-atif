@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning Javascript
 - 💬 Ask me about anything
 - Love anime and manga
+- <br>
+<br>
 [![](https://visitcount.itsvg.in/api?id=zaman-atif&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 
